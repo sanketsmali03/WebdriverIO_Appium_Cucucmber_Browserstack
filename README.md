@@ -17,14 +17,6 @@ Code samples to get started with Appium tests for your Native App using Webdrive
 
 ### Install the dependencies
 
-For Android tests, run the following command in project's base directory :
-
-```sh
-cd android
-npm i
-```
-
-Or,
 
 For dependencies for iOS tests, run following command in project's base directory :
 
